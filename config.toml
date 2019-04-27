@@ -1,4 +1,4 @@
-baseURL = "http://kevinbrown.dev/"
+baseURL = "https://kevinbrown.dev/"
 languageCode = "en-us"
 title = "Kevin Brown - Computers & Friends"
 theme = "paper"
