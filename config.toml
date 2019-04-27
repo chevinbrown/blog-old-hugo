@@ -1,0 +1,4 @@
+baseURL = "http://kevinbrown.dev/"
+languageCode = "en-us"
+title = "Kevin Brown - Computers & Friends"
+theme = "paper"
